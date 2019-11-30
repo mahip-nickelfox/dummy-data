@@ -1,7 +1,7 @@
 {
     "users": [
-      { "id": 1, "name": "User #1", "email": "user1@dummy.com", "phone": "9999999990", "status": true },
-      { "id": 2, "name": "User #2", "email": "user2@dummy.com", "phone": "9999999991", "status": true },
-      { "id": 3, "name": "User #3", "email": "user3@dummy.com", "phone": "9999999992", "status": true }
+      { "id": 1, "name": "User #1", "email": "user1@dummy.com", "phone": "9999999990", "status": true, "date_added": "29-Nov-2019" },
+      { "id": 2, "name": "User #2", "email": "user2@dummy.com", "phone": "9999999991", "status": true, "date_added": "29-Nov-2019" },
+      { "id": 3, "name": "User #3", "email": "user3@dummy.com", "phone": "9999999992", "status": true, "date_added": "29-Nov-2019" }
     ]
   }
