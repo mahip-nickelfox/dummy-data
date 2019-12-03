@@ -1,12 +1,68 @@
 {
     "users": [
-      { "id": 1, "name": "User #1", "email": "user1@dummy.com", "phone": "9999999990", "status": true, "date_added": "29-Nov-2019" },
-      { "id": 2, "name": "User #2", "email": "user2@dummy.com", "phone": "9999999991", "status": true, "date_added": "29-Nov-2019" },
-      { "id": 3, "name": "User #3", "email": "user3@dummy.com", "phone": "9999999992", "status": true, "date_added": "29-Nov-2019" }
+        {
+            "id": 1,
+            "name": "User #1",
+            "email": "user1@dummy.com",
+            "phone": "9999999990",
+            "status": true,
+            "date_added": "29-Nov-2019"
+        },
+        {
+            "id": 2,
+            "name": "User #2",
+            "email": "user2@dummy.com",
+            "phone": "9999999991",
+            "status": true,
+            "date_added": "29-Nov-2019"
+        },
+        {
+            "id": 3,
+            "name": "User #3",
+            "email": "user3@dummy.com",
+            "phone": "9999999992",
+            "status": true,
+            "date_added": "29-Nov-2019"
+        }
     ],
     "sub_admins": [
-        { "id": 1, "name": "Sub Admin #1", "email": "subadmin1@dummy.com", "phone": "9999999990", "status": true, "date_added": "29-Nov-2019" },
-        { "id": 2, "name": "Sub Admin #2", "email": "subadmin2@dummy.com", "phone": "9999999991", "status": true, "date_added": "29-Nov-2019" },
-        { "id": 3, "name": "Sub Admin #3", "email": "subadmin3@dummy.com", "phone": "9999999992", "status": true, "date_added": "29-Nov-2019" }
-      ]
-  }
+        {
+            "id": 1,
+            "name": "Sub Admin #1",
+            "email": "subadmin1@dummy.com",
+            "phone": "9999999990",
+            "status": true,
+            "date_added": "29-Nov-2019"
+        },
+        {
+            "id": 2,
+            "name": "Sub Admin #2",
+            "email": "subadmin2@dummy.com",
+            "phone": "9999999991",
+            "status": true,
+            "date_added": "29-Nov-2019"
+        },
+        {
+            "id": 3,
+            "name": "Sub Admin #3",
+            "email": "subadmin3@dummy.com",
+            "phone": "9999999992",
+            "status": true,
+            "date_added": "29-Nov-2019"
+        }
+    ],
+    "articles": [
+        {
+            "title": "Article #1",
+            "url": "https://nickelfox.com"
+        },
+        {
+            "title": "Article #2",
+            "url": "https://nickelfox.com"
+        },
+        {
+            "title": "Article #3",
+            "url": "https://nickelfox.com"
+        }
+    ]
+}
